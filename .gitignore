@@ -2,6 +2,11 @@
 .vs
 bin/
 obj/
+
+ffmpeg/
+wwwroot/
+tempkey.jwk
+
 # NCrunch
 *.ncrunch*.user
 _NCrunch_*
